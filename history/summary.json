@@ -4,7 +4,7 @@
     "url": "https://tingleex.serv00.net/",
     "icon": "https://icons.duckduckgo.com/ip3/tingleex.serv00.net.ico",
     "slug": "serv00-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
@@ -16,6 +16,7 @@
     "timeMonth": 790,
     "timeYear": 790,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2025-04-01": 20
     }
   }
